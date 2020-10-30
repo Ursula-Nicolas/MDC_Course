@@ -17,3 +17,5 @@ y <- 7*3
 333333+44444
 
 # Teständerung Juliane
+
+z <- 4-7
