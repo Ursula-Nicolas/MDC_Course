@@ -11,3 +11,5 @@ y <- c(1,2,3,4,5,6,7)
 # Hier noch weitere Infos
 
 5^3
+
+z y- 4*4
